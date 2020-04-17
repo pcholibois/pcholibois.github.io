@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://easysquarevermietung.github.io"
+baseURL = "https://easysquareVermietung.github.io"
 title = "Home | easysquare Vermietung"
 theme = "somrat"
 # disable language
