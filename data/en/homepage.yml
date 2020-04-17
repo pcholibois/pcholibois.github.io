@@ -1,0 +1,242 @@
+########################## hero area ##########################
+hero:
+  title : "easysquare Vermietung"
+
+  # animated text loop
+  occupations:
+    - "Auswertungen zu Immobiliengesuchen und Angebotsobjekten"
+    - "Auswertungen zu Vertragsabschlüssen"
+    - "Auswertungen zu Besichtigungen"
+
+  # slider background image loop
+  slider_image:
+    - "images/slider/1.jpg"
+    - "images/slider/2.jpg"
+    - "images/slider/4.jpg"
+  
+  # button
+  button:
+    enable : true
+    label : "Easysquare ist eine Marke der PROMOS consult GmbH"
+    link : "http://www.openpromos.com/"
+
+
+####################### Full screen navigation #####################
+fullscreen_nav:
+  enable : true
+  bg_image : "images/backgrounds/5.jpg"
+  first_name : "easysquare"
+  last_name : "Vermietung effizient und vernetzt gestalten"
+  
+
+########################### About ##################################
+about:
+  enable : true
+  image : "images/backgrounds/6.jpg"
+  title : "Einfach und Effizient"
+  content : "Die neue easysquare Lösung für die Vermietung (kurz: „easysquare Ver-mietung“) bietet komfortablen Zugriff auf alle vermietungsrelevanten Daten, auch von unterwegs. Anders als andere klassische Vermietungs-software ist die Anwendung im Look and Feel auf iPad und PC optimiert und stellt Funktionen intuitiv dar. Durch die Anbindung an SAP® und dem damit verbundenen Fortschreiben von Stamm- und Bewegungs-daten mit easysquare workflow ist die neue Lösung hochgradig integra-tiv und vermeidet Medienbrüche.
+            Der Dienst „Vermietung“ ist speziell auf die Anforderungen von Ver-mietern ausgerichtet. Die Bearbeitung kann sowohl mobil über die easysquare mobile App, oder im Büro über die easysquare Web-App (basierend auf SAP® UI5) erfolgen. Im Tagesgeschäft ist es bis zur Vor-bereitung der Mietvertragsanlage nicht mehr notwendig, Transaktio-nen der SAP® Interessenten- und Angebotsverwaltung zu nutzen. In der easysquare Web App und der easysquare mobile App erfolgt die Bear-beitung aller Aufgaben über mobile Formulare (z. B. Erfassung von In-teressentendaten oder die Anzeige von freien Wohnungen gemäß den ausgewählten Suchkriterien)."  
+  # button
+  button:
+    enable : true
+    label : "Produktbeschreibung"
+    link : "static/easysquare_Vermietung_2019_web.pdf"
+
+
+
+###########################3 Experience ##############################
+experience:
+  enable : true
+  title : "Die neue Vermietungslösung besteht aus den Diensten"
+  experience_list:
+    # experience item loop
+    - name : 
+      company : 
+      duration :
+      content : "Objekte"
+
+    # experience item loop
+    - name : 
+      company : 
+      duration :
+      content : "Interessenten"
+
+    # experience item loop
+    - name : 
+      company : 
+      duration :
+      content : "Angebote und Reservierungen"  
+      
+    # experience item loop
+    - name : 
+      company : 
+      duration :
+      content : "Arbeitsvorrat"  
+    
+    # experience item loop
+    - name : 
+      company : 
+      duration :
+      content : "Online-Anfragen"  
+
+    # experience item loop
+    - name : 
+      company : 
+      duration :
+      content : "Besichtigungen"  
+
+    # experience item loop
+    - name : 
+      company : 
+      duration :
+      content : "Auswertungen"  
+
+    # experience item loop
+    - name : 
+      company : 
+      duration :
+      content : "Nachrichtenfunktion"  
+      
+           
+              
+
+################################### Service ##############################3
+service:
+  enable : true
+  title : "Zielanwendergruppe"
+  service_list:
+    # service item loop
+    - name : "Vermieter"
+      image : "images/icons/vermieter.png"
+      
+    # service item loop
+    - name : "Objektbetreuer"
+      image : "images/icons/hausmeister_icon.png"
+      
+    # service item loop
+    - name : "Makler"
+      image : "images/icons/markler.png"
+
+  
+
+
+    
+
+############################## call to action #########################
+call_to_action:
+  enable : true
+  bg_image : "images/backgrounds/need-service.jpg"
+  title : "Technische Voraussetzungen"
+  button: 
+    enable : true
+    label : "Weiterführende Informationen!"
+    link : "https://www.easysquare.com/prozesssteuerung"
+  content : "SAP® ERP (perspektivisch auch ohne SAP® nutzbar"
+    
+
+
+
+
+
+
+
+############################# portfolio ################################
+portfolio:
+  enable : true
+  title : "Portfolio"
+  portfolio_list:
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/mieter.jpg"
+      category : "easysquare Mieter-App"   
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/handwerker.jpg"
+      category : "easysquare Handwerkerportal"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/versicherungsportal.jpg"
+      category : "easysquare Versicherungsportal"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/mieterwechsel.jpg"
+      category : "easysquare Mieterwechsel"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/interessent.jpg"
+      category : "easysquare Interessenten-App"
+      
+    # portfolio item loop
+    - name : "Project <br> Title"
+      image : "images/portfolio/mobile.jpg"
+      category : "easysquare Mobile"
+      
+
+
+
+
+
+  
+
+################################# Testimonial #########################33
+testimonial:
+  enable : true
+  title : "REFERENZEN"
+  testimonial_slider:
+    # slider item loop
+    - name : "ProPotsdam GmbH"
+      image : "images/clients/propotsdam.png"
+      content : "Die Investition hat sich voll und ganz gelohnt!
+                Mit der Umstellung auf SAP® begannen wir mehrere Optimierungsprojekte in unserem Unternehmen und konnten die Potenziale von SAP® für die Reorganisation zeitnah umsetzen."
+                
+    # slider item loop
+    - name : "LBBW Immobilien Management GmbH"
+      image : "images/clients/llbw.png"
+      content : "Wir sind mit der neuen Lösung sehr zufrieden. Die Umstellung verlief nach Plan. Die Kosten wurden nicht überschritten. "
+                
+    # slider item loop
+    - name : "BGW Bielefelder Gesellschaft für Wohnen und Immobiliendienstleistungen mbH"
+      image : "images/clients/bgw.png"
+      content : "Alles Supi."
+
+    # slider item loop
+    - name : "Dortmunder Gemeinnützige Wohnungsgesellschaft mbH"
+      image : "images/clients/bvb.png"
+      content : "Überzeugend ist das integrierte Berichtswesen in SAP®. Alle wohnungs- und betriebswirtschaftlich wichtigen Daten sind auf Knopfdruck bei uns im Haus abrufbar.
+                Kein Geschäftsprozess kann sich dem zentralen Controlling entziehen.
+                Drittsysteme mit eigenen Excel-Listen und langen Listen, die über drei Ecken beschafft werden müssen, gibt es nicht mehr."
+
+  
+######################### funfacts #############################3
+funfacts:
+  enable : true
+  funfacts_list:
+    # funfacts item loop
+    - name : "Praktische Arbeit"
+      image : "images/icons/works.png"
+      count : "150"
+      
+    # funfacts item loop
+    - name : "Glückliche Kunden"
+      image : "images/icons/happy.png"
+      count : "20"
+      
+    # funfacts item loop
+    - name : "Beendete Projekte"
+      image : "images/icons/project.png"
+      count : "50"
+      
+    # funfacts item loop
+    - name : "Kaffee Tassen"
+      image : "images/icons/coffee.png"
+      count : "1000"
+
+
+############################## contact ###########################
+contact:
+  enable : true
+  title : "KONTAKTIEREN SIE UNS!"

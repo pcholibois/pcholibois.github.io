@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://easysquareVermietung.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easysquareVermietung.com/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://easysquareVermietung.com/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easysquareVermietung.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://easysquareVermietung.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easysquareVermietung.com/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://easysquareVermietung.com/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easysquareVermietung.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://easysquareVermietung.com/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://easysquareVermietung.com/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://easysquareVermietung.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://easysquareVermietung.com/tags/"
+                />
+  </url>
+  
+</urlset>
